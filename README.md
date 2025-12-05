@@ -1,1 +1,1 @@
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oatis123&theme=tokyonight)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Oatis123&theme=tokyonight&days=14)](https://github.com/ashutosh00710/github-readme-activity-graph)

@@ -1,1 +1,1 @@
-![Моя статистика GitHub](https://github-readme-stats.vercel.app/api?username=Oatis123&show_icons=true&theme=tokyonight&commits_year=2025)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oatis123&theme=tokyonight)
